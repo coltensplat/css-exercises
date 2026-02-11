@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.guava {
+    background-color: #ffc0cb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.guava.cuke {
+    font-size: 24px;
+}
+
+#uno {
+    background-color: #00ffff;
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#dos {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-style: bold;
+}
